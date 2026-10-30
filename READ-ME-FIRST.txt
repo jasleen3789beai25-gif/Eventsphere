@@ -1,0 +1,8 @@
+EVENTSPHERE - COMPONENT 1 + COMPONENT 2
+
+Component1_Presentation/EventSphere_Presentation.pptx   -> slides (fill in your name on slide 1)
+Component2_Website/eventsphere-react/                   -> the React website
+
+To run the website: open Component2_Website/eventsphere-react/START-HERE.txt
+(Windows shortcut: double-click START-PROJECT.bat inside eventsphere-react)
+Viva cheat sheet: eventsphere-react/RUBRIC-GUIDE.md
